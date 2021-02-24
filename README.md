@@ -1,4 +1,4 @@
-## [mod-wmm-teacher](./res/index.m3u8)
+## [mod-wmm-teacher](https://cdn.jsdelivr.net/gh/ghcdn/mod-wmm-teacher/res/index.m3u8)
 
 <p>视频略缩图：</p>
 <div id="thumb-pic">
